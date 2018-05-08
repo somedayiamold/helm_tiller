@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/tiller:latest
+FROM gcr.io/kubernetes-helm/tiller:latest
